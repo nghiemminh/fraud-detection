@@ -19,7 +19,7 @@ Given the class imbalance ratio, the author recommends measuring the accuracy us
 - **Random Forest:** Trained a Random Forest with 500 estimators, max depth = 10, and max_features = squared. Achieved 0.8 PR-AUC, 0.14 F2, and 0.03 Precision.
 - **XGBoost:** Trained a XGBoost classifier with 1000 estimators, each has max_depth = 6. Achieved **0.8 PR-AUC, 0.18 F2 score**, 0.04 Precision, and minimize the financial impacts of misclassification. 
   
----> XGBoost is the best model, combined both highest perforance **(0.8 PR-AUC)** with lowest financial impacts.
+---> XGBoost is the best model, combined both highest perforance **(0.8 PR-AUC, 0.18 F2 score)** with lowest financial impacts.
 
 ### Dependencies
 Choose the lastest versions of any of the dependencies below: 
