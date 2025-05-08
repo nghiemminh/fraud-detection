@@ -1,6 +1,6 @@
 # Fraud Detection 
 
-The objective of this project is to detect fraudulent transactions using various machine learning models. Given the highly imbalanced nature (0.17%) of the dataset, the models are evaluated based on their Recall (with a minimum target of 0.9), F2, and financial impacts. This ensures that they are sensitive to identifying frauds, while minimizing financial impacts.
+The objective of this project is to detect fraudulent transactions using various machine learning models. Given the highly imbalanced nature (0.17%) of the dataset, the models are evaluated based on their Recall (with a minimum target of 0.9), F2, PR-AUC, and financial impacts. This ensures that they are sensitive to identifying frauds, while minimizing financial impacts.
 
 ### Data Description 
 
